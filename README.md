@@ -42,7 +42,7 @@ k8s/
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>M11307003</title>
+  <title>我的學號</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
